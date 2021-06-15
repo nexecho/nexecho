@@ -1,3 +1,1 @@
 - We are nexecho
-- we build web and mobile applications
-- mailnexecho@gmail.com
